@@ -1,4 +1,4 @@
-# React COVID Tracker
+# COVID-19 tracker with React and Hooks
 
 # Getting Started with Create React App
 
